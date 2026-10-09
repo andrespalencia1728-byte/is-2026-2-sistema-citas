@@ -7,8 +7,6 @@ Aplicación para gestionar citas médicas: permite buscar citas por especialidad
 | Nombre | Usuario de GitHub |
 |--------|-------------------|
 | Andres David Rico | [@andrespalencia1728-byte](https://github.com/andrespalencia1728-byte) |
-| Compañero 2 (ejemplo) | [@usuario-companero2](https://github.com/usuario-companero2) |
-| Compañero 3 (ejemplo) | [@usuario-companero3](https://github.com/usuario-companero3) |
 
 ## Tecnologías
 
